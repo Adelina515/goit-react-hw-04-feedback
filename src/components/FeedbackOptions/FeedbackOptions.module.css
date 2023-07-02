@@ -1,0 +1,13 @@
+.wrapper {
+  width: 200px;
+}
+
+.btnStats {
+  margin-right: 10px;
+  background-color: white;
+  border-radius: 5px;
+  border-color: rgb(105, 109, 109);
+}
+.btnStats:last-child {
+  margin-right: 0px;
+}
